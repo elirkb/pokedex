@@ -1,8 +1,8 @@
 ---
 title: 'test'
 cover:
-  image: /rbean.png
+  image: /pokedex/rbean.png
   caption: Testing caption
 ---
 
-![](/rbean.png)
+![](/pokedex/rbean.png)

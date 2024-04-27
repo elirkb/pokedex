@@ -4,5 +4,3 @@ cover:
   image: /pokedex/rbean.png
   caption: Testing caption
 ---
-
-![](/pokedex/rbean.png)
